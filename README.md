@@ -1,2 +1,3 @@
 # LogicaDeProgramacao
-Pratica de Lógica com tecnologias Front-END
+Repositorio para armazenar projetos de pratica de logica de programação
+para tecnologias atualmente sendo aprendidas.
